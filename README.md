@@ -2,7 +2,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Uric Bonatti](https://www.linkedin.com/in/uric-bonatti-cardoso-820275132/)
 
-- 🔭 I'm currently working on a frontend project using GraphQL, React and TypeScript
+- 🔭 I'm currently working on a frontend graduation project using GraphQL, React and TypeScript
 
 - 🌱 I’m currently learning about tests and continuous integration (Jest/Enzime and CircleCI)
 
