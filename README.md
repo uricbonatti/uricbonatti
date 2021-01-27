@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on a frontend graduation project using GraphQL, React and TypeScript
 
-- 🌱 I’m currently learning about tests and continuous integration (Jest/Enzime and CircleCI)
+- 🌱 I’m currently learning about grpc and microservices
 
 - 🔭 An important fact: I'm surveying engineer, but now i 'am study system analysis and development
 
