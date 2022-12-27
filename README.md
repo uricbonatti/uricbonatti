@@ -6,7 +6,7 @@
 
 - 🔭 I am currently open to work
 
-- 🌱 I’m currently learning about NestJ, Primsma,Github Actions, Grpc, Microservices, Electron and Tensorflow
+- 🌱 I’m currently learning about NestJ, Prisma,Github Actions, Grpc, Microservices, Electron and Tensorflow
 
 - 🔭 An important fact: I'm surveying engineer, postgraduate on Database and postgraduate on Java and PHP development, but now i 'am study system analysis and development
 
