@@ -14,7 +14,7 @@
 
 - ⚡ An stupid fact: I'm playing World of Warcraft Classic on Faerlina's realm on horde, but my heart always be of the alliance
 
-- 👯 I'm 30 year old, games, rpg and technology are my passions
+- 👯 I'm 31 year old, games, rpg and technology are my passions
 
 - 🔭 I am generally proactive, as I value excellence and team development, teaching is not a problem for me (study, understand, process, apply and teach in the simplest way possible)
 
