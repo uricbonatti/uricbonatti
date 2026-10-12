@@ -9,4 +9,7 @@ Backend Engineer focado em **Node.js e TypeScript**: APIs, microsserviços e sis
 
 **Stack:** Node.js · TypeScript · NestJS · Express · PostgreSQL · MySQL · Redis · RabbitMQ · GCP · Docker · Kubernetes · Jest
 
+### Projetos em destaque
+- [mtg-proxy-mcp](https://github.com/uricbonatti/mtg-proxy-mcp): servidor MCP em TypeScript que monta decks de Magic (Commander) e gera proxies em português
+
 📫 [LinkedIn](https://www.linkedin.com/in/uricbonatti)
