@@ -1,35 +1,12 @@
 # Uric Bonatti
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Uric Bonatti](https://www.linkedin.com/in/uric-bonatti-cardoso-820275132/)
+Backend Engineer focado em **Node.js e TypeScript**: APIs, microsserviços e sistemas orientados a eventos.
 
-- 🔭 I'm currently trying to found a new TCC theme
+- 🛠️ Construo BFFs, microsserviços e pipelines event-driven (Pub/Sub, RabbitMQ) em produção desde 2020
+- ✅ Obcecado por qualidade: testes unitários/e2e, mutation testing (Stryker) e observabilidade (OpenTelemetry)
+- 🎓 Engenheiro agrimensor que virou dev · Tecnólogo em ADS · Pós em Banco de Dados e Desenvolvimento de Sistemas
+- 🧪 Hoje explorando: IA aplicada a desenvolvimento (MCP servers), AWS e arquitetura distribuída
 
-- 🔭 I am currently open to work
+**Stack:** Node.js · TypeScript · NestJS · Express · PostgreSQL · MySQL · Redis · RabbitMQ · GCP · Docker · Kubernetes · Jest
 
-- 🌱 I’m currently learning about NestJ, Prisma,Github Actions, Grpc, Microservices, Electron and Tensorflow
-
-- 🔭 An important fact: I'm surveying engineer, postgraduate on Database and postgraduate on Java and PHP development, but now i 'am study system analysis and development
-
-- 🔭 Other important fact: I really love codes that follow the clean code guide, but i love a lot more programs that do what they need do
-
-- ⚡ An stupid fact: I'm playing World of Warcraft Classic on Faerlina's realm on horde, but my heart always be of the alliance
-
-- 👯 I'm 31 year old, games, rpg and technology are my passions
-
-- 🔭 I am generally proactive, as I value excellence and team development, teaching is not a problem for me (study, understand, process, apply and teach in the simplest way possible)
-
-
-<!--
-**uricbonatti/uricbonatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/uricbonatti)
